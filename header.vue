@@ -1,0 +1,3 @@
+<template>
+   <h1>Power Monitoring System</h1>
+</template>
